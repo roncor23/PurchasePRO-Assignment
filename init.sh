@@ -13,5 +13,5 @@ docker-compose exec -T laravel php artisan module:use
 docker-compose exec -T laravel php artisan module:enable
 docker-compose exec -T laravel php artisan optimize
 docker-compose exec -T laravel php artisan migrate:fresh
-docker-compose exec -T laravel php artisan db:seed
+docker-compose exec -T laravel php artisan db:seed 
 echo ${C}  "App is ready at localhost:8080." ${N}
