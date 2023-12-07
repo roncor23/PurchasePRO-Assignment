@@ -1,7 +1,7 @@
 # Config
 Copy .env.example and rename to .env
 
-# docker-laravel-vue
+# PurchasePRO-Assignment
 To get started, run `sh init.sh` in the root directory. 
 
 # Getting started
